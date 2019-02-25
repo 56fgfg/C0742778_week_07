@@ -81,6 +81,7 @@
     <Content Include="object.html" />
     <Content Include="page.html" />
     <Content Include="page2.html" />
+    <Content Include="page3.html" />
     <None Include="C0742778_week_07_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
