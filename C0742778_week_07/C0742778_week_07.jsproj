@@ -78,6 +78,7 @@
     <Content Include="images\Wide310x150Logo.scale-200.png" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
+    <Content Include="object.html" />
     <Content Include="page.html" />
     <Content Include="page2.html" />
     <None Include="C0742778_week_07_TemporaryKey.pfx" />
